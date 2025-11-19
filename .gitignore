@@ -1,2 +1,7 @@
 .googleaiagent
 gitignoreme
+.kaggle
+.env
+my-simple-agent.py/
+budget_variance/.env
+
